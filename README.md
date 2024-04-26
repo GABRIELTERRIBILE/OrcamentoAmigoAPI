@@ -7,7 +7,7 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-Laravel version "10.2.9"
+- Laravel version "10.2.9"
 
 - php artisan make:model Expense -m
 
