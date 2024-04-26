@@ -9,9 +9,14 @@
 
 Laravel version "10.2.9"
 
-php artisan make:model Expense -m
-php artisan migrate
-php artisan make:factory ExpenseFactory
-php artisan migrate:fresh --seed
-php artisan make:controller ExpenseController --api
-php artisan make:request SaveExpenseRequest
+- php artisan make:model Expense -m
+
+- php artisan migrate
+
+- php artisan make:factory ExpenseFactory
+
+- php artisan migrate:fresh --seed
+
+- php artisan make:controller ExpenseController --api
+
+- php artisan make:request SaveExpenseRequest
